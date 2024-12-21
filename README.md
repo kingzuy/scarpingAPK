@@ -1,4 +1,4 @@
-# Alat Analisis Review Google Play Store
+# Analisis Aplikasi AcademiCrypto di Play Store
 
 ## Gambaran Umum
 Script Python ini melakukan analisis menyeluruh terhadap review aplikasi dari Google Play Store. Script ini melakukan scraping review, memproses data, dan menghasilkan berbagai visualisasi dan wawasan untuk membantu memahami pola sentimen dan umpan balik pengguna.
